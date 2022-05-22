@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32505.426
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWindowsTool", "SimpleWindowsTool\SimpleWindowsTool.csproj", "{ACAEAA34-B1E2-4136-B602-00F70043CEFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAEAA34-B1E2-4136-B602-00F70043CEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAEAA34-B1E2-4136-B602-00F70043CEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAEAA34-B1E2-4136-B602-00F70043CEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAEAA34-B1E2-4136-B602-00F70043CEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A20AF7-6724-412F-83DF-2F00CF3237E5}
+	EndGlobalSection
+EndGlobal
